@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ProcessBarImpl:war">
+    <output-path>$PROJECT_DIR$/ProcessBarImpl/target</output-path>
+    <root id="archive" name="ProcessBar.war">
+      <element id="artifact" artifact-name="ProcessBarImpl:war exploded" />
+    </root>
+  </artifact>
+</component>
